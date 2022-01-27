@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Kst Data Source
+X-KDE-ModuleType=Plugin
+X-KDE-Library=sourcelist
+X-Kst-Plugin-Author=C. Barth Netterfield
+Name=Data Source List
+Name[ca]=Llista de fonts de les dades
+Name[ca@valencia]=Llista de fonts de les dades
+Name[de]=Datenquellenliste
+Name[fr]=Liste de sources de données
+Name[it]=Elenco fonte dati
+Name[nb]=Datakilde-liste
+Name[nl]=Lijst met gegevensbronnen
+Name[pl]=Wykaz danych źródłowych
+Name[pt]=Lista de Fontes de Dados
+Name[pt_BR]=Lista de fontes de dados
+Name[sk]=Zoznam zdrojov údajov
+Name[sv]=Lista över datakällor
+Name[uk]=Список джерел даних
+Name[x-test]=xxData Source Listxx
